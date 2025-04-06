@@ -30,3 +30,7 @@ Encoder - https://www.aliexpress.com/item/1005008666493796.html
 XT60E-M Connector - https://www.aliexpress.com/item/1005005300313492.html
 
 Power Switch - https://www.aliexpress.com/item/1005007352107442.html
+
+24v 92mm Fan - https://www.aliexpress.com/item/1005003012090486.html
+
+4x 2020 Extrusion 150mm - https://www.aliexpress.com/item/33019355789.html
