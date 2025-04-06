@@ -2,7 +2,7 @@
 
 ![Alt text](title.png "FFBEast Wheel")
 
-This project is part of my DIY Sim racing series. It uses a modified hoverboard motor to create a power
+This project is part of my DIY Sim racing series. It uses a modified hoverboard motor to create a powerful
 direct drive FFB steering wheel!
 
 Link to video 1: https://youtu.be/VL34nnuZUFQ
