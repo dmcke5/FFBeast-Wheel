@@ -15,12 +15,8 @@ The motor folder contains everything needed to complete the modification to the 
 
 Refer to the official FFBeast project page for software and setup! https://ffbeast.github.io/
 
-For FFB compatibility with Dirt Rally 2, you'll need to add the following line to the bottom of this file:
-"steamapps/common/DIRT Rally 2.0/Input/devices/device_defines.xml"
 
-```<device id="{5907045B-0000-0000-0000-504944564944}" name="FFBeast(Wheel)" priority="100" type="wheel" Official="false" ffb_force="1" />```
-
-#### Bill of Materials
+### Bill of Materials
 
 Motor controller - https://www.aliexpress.com/item/1005006480243178.html
 
@@ -39,3 +35,14 @@ Power Switch - https://www.aliexpress.com/item/1005007352107442.html
 24v 92mm Fan - https://www.aliexpress.com/item/1005003012090486.html
 
 4x 2020 Extrusion 150mm - https://www.aliexpress.com/item/33019355789.html
+
+### Game Compatibility
+
+The wheel and [pedals](https://github.com/dmcke5/SimPedals) should be compatible with most games without the need for anything special. As I find games that DO require changes to be compatible with the wheel, I will add them alongside instructions in this section!
+
+#### Dirt Rally 2.0
+
+For FFB compatibility with Dirt Rally 2, you'll need to add the following line to the bottom of this file:
+"steamapps/common/DIRT Rally 2.0/Input/devices/device_defines.xml"
+
+```<device id="{5907045B-0000-0000-0000-504944564944}" name="FFBeast(Wheel)" priority="100" type="wheel" Official="false" ffb_force="1" />```
