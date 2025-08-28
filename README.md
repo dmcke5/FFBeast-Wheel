@@ -15,6 +15,11 @@ The motor folder contains everything needed to complete the modification to the 
 
 Refer to the official FFBeast project page for software and setup! https://ffbeast.github.io/
 
+For FFB compatibility with Dirt Rally 2, you'll need to add the following line to the bottom of this file:
+"steamapps/common/DIRT Rally 2.0/Input/devices/device_defines.xml"
+
+<device id="{5907045B-0000-0000-0000-504944564944}" name="FFBeast(Wheel)" priority="100" type="wheel" Official="false" ffb_force="1" />
+
 #### Bill of Materials
 
 Motor controller - https://www.aliexpress.com/item/1005006480243178.html
